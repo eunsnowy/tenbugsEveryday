@@ -1,11 +1,4 @@
-# [Web-Security-Learning](https://chybeta.github.io/2017/08/19/Web-Security-Learning/)
-
-项目地址： https://github.com/CHYbeta/Web-Security-Learning
-
-最近更新日期为：2018/10/31。
-
-同步更新于： [chybeta: Web-Security-Learning](https://chybeta.github.io/2017/08/19/Web-Security-Learning/) 
-
+only for me
 目录：
 - [Web-Security-Learning](#web-security-learning)
 - [Web Security](#web-security)
@@ -58,6 +51,22 @@
 ## SSRF
 ## XXE
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)在线格式化XML工具存在xxe,XXE读取到脚本文件/home/run/ssh_go.sh，内含SSH登陆密码。
++ [百度某平台Blind XXE漏洞&可Bool型SSRF攻击](https://shuimugan.com/bug/view?bug_no=134057)XML检查工具存在xxe
++ [搜狗某平台Blind XXE漏洞(读取文件/SSRF/Struts2命令执行)](https://shuimugan.com/bug/view?bug_no=135397)XML检查工具存在xxe
++ [百度某功能XML实体注入](https://shuimugan.com/bug/view?bug_no=58381)该功能点将用户输入的svg转换为对应的JPG图片，抓包构造特殊的svg文件然后下载图片，在图片中有回显
++ [百度某功能XML实体注入（二）](https://shuimugan.com/bug/view?bug_no=59783)在第一次修复后只过滤了ENTITY这个词，DTD 本身就支持调用外部的DTD文件，因此我们只需要在svg里加一个外部的DTD就绕过了
++ [鲜果网RSS导入Blind XXE漏洞](https://shuimugan.com/bug/view?bug_no=74069)支持导入OPML文件格式的订阅
++ [博客园某处XXE可下载任意文件](https://shuimugan.com/bug/view?bug_no=111828)博客搬家功能，可以通过导入XML添加博客
++ [用友人力资源管理软件全版本XXE漏洞](https://shuimugan.com/bug/view?bug_no=117316)登陆与重置密码时使用XML传输数据。
++ [AOL Website XML External Entity(XXE) Vulnerability](https://shuimugan.com/bug/view?bug_no=148793)xmlrpc
++ [国际php框架slim架构上存在XXE漏洞](https://shuimugan.com/bug/view?bug_no=156208)根据content-type来区分解析数据。新版本需求php5.5以上，以为不存在xxe，事实上xml外部实体的解析，和php版本并无关系，而是和编译时的libxml库版本有关
++ [唯品会存在Blind XXE 漏洞](https://shuimugan.com/bug/view?bug_no=168457) xfire是流行的webservice开发组件，其在invoke时使用了STAX解析XML导致XML实体注入发生 
++ [Xfire文件读取漏洞](http://www.anquan.us/static/bugs/wooyun-2016-0166751.html)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
+
+
 ## JSONP注入
 ## SSTI
 ## 代码执行 / 命令执行
