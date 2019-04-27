@@ -52,13 +52,12 @@
 ### MSSQL
 ### PostgreSQL
 ### MongoDB
-### 技巧
-### 工具
 ## XSS
 ## CSRF
 ## 其他前端安全
 ## SSRF
 ## XXE
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)在线格式化XML工具存在xxe,XXE读取到脚本文件/home/run/ssh_go.sh，内含SSH登陆密码。
 ## JSONP注入
 ## SSTI
 ## 代码执行 / 命令执行
@@ -76,11 +75,9 @@
 ### 序列化
 ### php mail header injection
 ### 其他
-### php代码审计
 ## java-Web
 ### 反序列
 ### Struct2
-### java-Web代码审计
 ## python-Web
 ## Node-js
 # 渗透测试
