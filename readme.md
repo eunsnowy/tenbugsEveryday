@@ -62,7 +62,7 @@ only for me
 + [国际php框架slim架构上存在XXE漏洞](https://shuimugan.com/bug/view?bug_no=156208)根据content-type来区分解析数据。新版本需求php5.5以上，以为不存在xxe，事实上xml外部实体的解析，和php版本并无关系，而是和编译时的libxml库版本有关
 + [唯品会存在Blind XXE 漏洞](https://shuimugan.com/bug/view?bug_no=168457) xfire是流行的webservice开发组件，其在invoke时使用了STAX解析XML导致XML实体注入发生 
 + [Xfire文件读取漏洞](http://www.anquan.us/static/bugs/wooyun-2016-0166751.html)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [Revisting XXE and abusing protocols](https://sensepost.com/blog/2014/revisting-xxe-and-abusing-protocols/)老外写的真难读，xxe+expect=RCE
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 
