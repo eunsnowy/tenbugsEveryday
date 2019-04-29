@@ -49,6 +49,12 @@ only for me
 ## CSRF
 ## 其他前端安全
 ## SSRF
++ [小米某处SSRF漏洞(可内网SHELL 附多线程Fuzz脚本)](https://shuimugan.com/bug/view?bug_no=215779)利用302跳转绕过限制+phpinfo()页面中泄漏的内网地址和端口就可以通过页面加载时间探测端口
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 ## XXE
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)在线格式化XML工具存在xxe,XXE读取到脚本文件/home/run/ssh_go.sh，内含SSH登陆密码。
 + [百度某平台Blind XXE漏洞&可Bool型SSRF攻击](https://shuimugan.com/bug/view?bug_no=134057)XML检查工具存在xxe
