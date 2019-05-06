@@ -50,7 +50,7 @@ only for me
 ## 其他前端安全
 ## SSRF
 + [小米某处SSRF漏洞(可内网SHELL 附多线程Fuzz脚本)](https://shuimugan.com/bug/view?bug_no=215779)利用302跳转绕过限制,使用dict协议+phpinfo()页面中泄漏的内网地址和端口就可以通过页面加载时间探测端口,6379端口getshell
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [腾讯某处SSRF漏洞(非常好的利用点)附利用脚本](https://shuimugan.com/bug/view?bug_no=215419)可以直接用http协议探测内网,也可以利用302跳转绕过对协议的限制，使用dict协议获得Redis服务器Shell
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
