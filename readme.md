@@ -49,12 +49,12 @@ only for me
 ## CSRF
 ## 其他前端安全
 ## SSRF
-+ [小米某处SSRF漏洞(可内网SHELL 附多线程Fuzz脚本)](https://shuimugan.com/bug/view?bug_no=215779)利用302跳转绕过限制,使用dict协议+phpinfo()页面中泄漏的内网地址和端口就可以通过页面加载时间探测端口,6379端口getshell
-+ [腾讯某处SSRF漏洞(非常好的利用点)附利用脚本](https://shuimugan.com/bug/view?bug_no=215419)可以直接用http协议探测内网,也可以利用302跳转绕过对协议的限制，使用dict协议获得Redis服务器Shell
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [小米某处SSRF漏洞(可内网SHELL 附多线程Fuzz脚本)](https://shuimugan.com/bug/view?bug_no=215779)下载图片处,利用302跳转绕过限制,使用dict协议+phpinfo()页面中泄漏的内网地址和端口就可以通过页面加载时间探测端口,6379端口getshell
++ [腾讯某处SSRF漏洞(非常好的利用点)附利用脚本](https://shuimugan.com/bug/view?bug_no=215419)分享功能处,可以直接用http协议探测内网,也可以利用302跳转绕过对协议的限制，使用dict协议获得Redis服务器Shell
++ [华为某分站存在SSRF漏洞](https://shuimugan.com/bug/view?bug_no=214331)下载功能处,内网:访问127.0.0.1:22回显ssh、外网:请求vps可以检测到请求，
++ [新浪微博某处SSRF漏洞](https://shuimugan.com/bug/view?bug_no=214334)分享功能处
++ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
++ [有道翻译SSRF修复不完整可绕过](https://shuimugan.com/bug/view?bug_no=214261)xip.io,xip.name,短地址均可绕过
 ## XXE
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)在线格式化XML工具存在xxe,XXE读取到脚本文件/home/run/ssh_go.sh，内含SSH登陆密码。
 + [百度某平台Blind XXE漏洞&可Bool型SSRF攻击](https://shuimugan.com/bug/view?bug_no=134057)XML检查工具存在xxe
