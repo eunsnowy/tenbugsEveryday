@@ -55,6 +55,12 @@ only for me
 + [新浪微博某处SSRF漏洞](https://shuimugan.com/bug/view?bug_no=214334)分享功能处
 + [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
 + [有道翻译SSRF修复不完整可绕过](https://shuimugan.com/bug/view?bug_no=214261)xip.io,xip.name,短地址均可绕过
++ [百度某处SSRF可漫游内网](https://shuimugan.com/bug/view?bug_no=214138)直接在vps的文件里写入<iframe src="http://10.16.83.164:8080">绕过
++ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
++ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
++ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
++ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
+
 ## XXE
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)在线格式化XML工具存在xxe,XXE读取到脚本文件/home/run/ssh_go.sh，内含SSH登陆密码。
 + [百度某平台Blind XXE漏洞&可Bool型SSRF攻击](https://shuimugan.com/bug/view?bug_no=134057)XML检查工具存在xxe
