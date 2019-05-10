@@ -55,9 +55,9 @@ only for me
 + [新浪微博某处SSRF漏洞](https://shuimugan.com/bug/view?bug_no=214334)分享功能处
 + [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
 + [有道翻译SSRF修复不完整可绕过](https://shuimugan.com/bug/view?bug_no=214261)xip.io,xip.name,短地址均可绕过
-+ [百度某处SSRF可漫游内网](https://shuimugan.com/bug/view?bug_no=214138)直接在vps的文件里写入<iframe src="http://10.16.83.164:8080">绕过
-+ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
-+ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
++ [百度某处SSRF可漫游内网](https://shuimugan.com/bug/view?bug_no=214138)漏洞在测试网站"移动友好度"处,直接在vps的文件里写入<iframe src="http://10.16.83.164:8080">绕过，
++ [bilibili某分站从信息泄露到ssrf再到命令执行](https://shuimugan.com/bug/view?bug_no=213982)
++ [七牛某站SSRF可探测内网](https://shuimugan.com/bug/view?bug_no=210934)获取远程图片处ssrf+elasticsearch未授权访问泄露内网网段=探测内网
 + [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
 + [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
 
