@@ -84,6 +84,11 @@ only for me
 ## 代码执行 / 命令执行
 ## 文件包含
 ## 文件上传 / 解析漏洞
++ [快钱某站上传Getshell](https://shuimugan.com/bug/view?bug_no=209324)上传图片处，直接上传jsp shell,利用00截断绕过。
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 ## 逻辑漏洞
 ## 其他漏洞
 ### RPO(relative path overwrite)
