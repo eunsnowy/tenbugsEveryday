@@ -85,8 +85,8 @@ only for me
 ## 文件包含
 ## 文件上传 / 解析漏洞
 + [快钱某站上传Getshell](https://shuimugan.com/bug/view?bug_no=209324)上传图片处，直接上传jsp shell,利用00截断绕过。
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [酷我音乐某处任意文件上传Getshell](https://shuimugan.com/bug/view?bug_no=214510)扫描c段,发现文件上传，getshell.扫描内网，代理访问内网存活ip，又发现内网中一处文件上传
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 ## 逻辑漏洞
