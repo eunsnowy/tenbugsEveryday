@@ -88,7 +88,7 @@ only for me
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [酷我音乐某处任意文件上传Getshell](https://shuimugan.com/bug/view?bug_no=214510)扫描c段,发现文件上传，getshell.扫描内网，代理访问内网存活ip，又发现内网中一处文件上传
 + [顺丰某分站从列目录到代码执行Getshell](https://shuimugan.com/bug/view?bug_no=59911)扫描c段,发现列目录漏洞，下载服务dll，反编译,发现密码，写一个客户端程序，调用服务上传,getshell
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=5991
++ [趣网某漏洞Getshell导致所有站点/数据库沦陷（涉及435W+用户数据/68W+交易订单)](https://shuimugan.com/bug/view?bug_no=5991)IOS APP在头像上传处修改上传类型后可上传php shell
 ## 逻辑漏洞
 ## 其他漏洞
 ### RPO(relative path overwrite)
