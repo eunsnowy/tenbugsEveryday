@@ -18,6 +18,7 @@ only for me
     - [文件包含](#%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB)
     - [文件上传 / 解析漏洞](#%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0--%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E)
     - [逻辑漏洞](#%E9%80%BB%E8%BE%91%E6%BC%8F%E6%B4%9E)
+    - [弱口令](#%e5%bc%b1%e5%8f%a3%e4%bb%a4)
     - [其他漏洞](#%E5%85%B6%E4%BB%96%E6%BC%8F%E6%B4%9E)
         - [RPO(relative path overwrite)](#rporelative-path-overwrite)
         - [Web Cache](#web-cache)
@@ -89,7 +90,23 @@ only for me
 + [酷我音乐某处任意文件上传Getshell](https://shuimugan.com/bug/view?bug_no=214510)扫描c段,发现文件上传，getshell.扫描内网，代理访问内网存活ip，又发现内网中一处文件上传
 + [顺丰某分站从列目录到代码执行Getshell](https://shuimugan.com/bug/view?bug_no=59911)扫描c段,发现列目录漏洞，下载服务dll，反编译,发现密码，写一个客户端程序，调用服务上传,getshell
 + [趣网某漏洞Getshell导致所有站点/数据库沦陷（涉及435W+用户数据/68W+交易订单)](https://shuimugan.com/bug/view?bug_no=5991)IOS APP在头像上传处修改上传类型后可上传php shell
++ [广州长城宽带OA系统任意文件上传已入远程桌面泄漏大量办公信息](https://shuimugan.com/bug/view?bug_no=213240)后台管理系统弱口令，登录后写邮件处发现fckeditor上传，getshell,netstat -abn 发现termsrv（远程桌面）端口位于25608，添加用户并连接
++ [中国民航某内部系统Getshell(泄漏9K多员工信息)(https://shuimugan.com/bug/view?bug_no=214735)爆破登录，头像上传处上传shell,菜刀连接找到数据库配置
++ [21英语网存在两处漏洞导致getshell/ROOT权限/影响大量子站点](https://shuimugan.com/bug/view?bug_no=213058)图片上传,木马前面添加GIF89a文件头+00截断,成功getshell
++ [运营商安全之中国移动多个漏洞打包(可SHELL内网漫游)](https://shuimugan.com/bug/view?bug_no=212792)上传图片处，抓包修改后缀绕过,getshell.
++ [奔驰某站getshell涉及大量数据库](https://shuimugan.com/bug/view?bug_no=212604)上传视频处，getshell
++ [七牛云存储某站漏洞可跨越边界漫游内网](https://shuimugan.com/bug/view?bug_no=212372)待续
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
+
 ## 逻辑漏洞
+## 弱口令
++ [运营商安全之中国移动多个漏洞打包(可SHELL内网漫游)](https://shuimugan.com/bug/view?bug_no=212792)扫描端口,发现一处jboss后台匿名访问，弱口令登陆。
 ## 其他漏洞
 ### RPO(relative path overwrite)
 ### Web Cache
