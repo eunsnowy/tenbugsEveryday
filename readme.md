@@ -95,7 +95,7 @@ only for me
 + [21英语网存在两处漏洞导致getshell/ROOT权限/影响大量子站点](https://shuimugan.com/bug/view?bug_no=213058)图片上传,木马前面添加GIF89a文件头+00截断,成功getshell
 + [运营商安全之中国移动多个漏洞打包(可SHELL内网漫游)](https://shuimugan.com/bug/view?bug_no=212792)上传图片处，抓包修改后缀绕过,getshell.
 + [奔驰某站getshell涉及大量数据库](https://shuimugan.com/bug/view?bug_no=212604)上传视频处，getshell
-+ [七牛云存储某站漏洞可跨越边界漫游内网](https://shuimugan.com/bug/view?bug_no=212372)github泄露测试账号，登录发现一些ip,nmap扫描端口找到一处web应用:ITDB资产管理系统,官网下源码找到默认数据库路径，进而直接下载数据库,数据库中发现管理员口令。登录发现上传文件处存在漏洞，上传文件getshell,文件路径通过审计源码得知.剩下的就是内网渗透部分.
++ [**七牛云存储某站漏洞可跨越边界漫游内网**](https://shuimugan.com/bug/view?bug_no=212372)github泄露测试账号，登录发现一些ip,nmap扫描端口找到一处web应用:ITDB资产管理系统,官网下源码找到默认数据库路径，进而直接下载数据库,数据库中发现管理员口令。登录发现上传文件处存在漏洞，上传文件getshell,文件路径通过审计源码得知.剩下的就是内网渗透部分.
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
