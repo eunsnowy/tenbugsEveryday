@@ -98,7 +98,7 @@ only for me
 + [**七牛云存储某站漏洞可跨越边界漫游内网**](https://shuimugan.com/bug/view?bug_no=212372)**github泄露测试账号，登录发现一些ip,nmap扫描端口找到一处web应用:ITDB资产管理系统,官网下源码找到默认数据库路径，进而直接下载数据库,数据库中发现管理员口令。登录发现上传文件处存在漏洞，上传文件getshell,文件路径通过审计源码得知.剩下的就是内网渗透部分.**
 + [中国联通某系统存在任意文件上传漏洞可越权修改28W商户信息数10W资质文件](https://shuimugan.com/bug/view?bug_no=212079)发布活动处，可上传图片。getshell
 + [建设银行某分行系统漏洞导致GetShell](https://shuimugan.com/bug/view?bug_no=210956)扫描端口获取商户后台,注册后添加信息上传(jspx)
-+ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [海尔集团某服务器配置不当导致代码执行](https://shuimugan.com/bug/view?bug_no=210602)访问/robots.txt/a.php,发现robots.txt被当成php文件执行，存在nginx解析漏洞
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
