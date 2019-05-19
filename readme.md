@@ -99,10 +99,19 @@ only for me
 + [中国联通某系统存在任意文件上传漏洞可越权修改28W商户信息数10W资质文件](https://shuimugan.com/bug/view?bug_no=212079)发布活动处，可上传图片。getshell
 + [建设银行某分行系统漏洞导致GetShell](https://shuimugan.com/bug/view?bug_no=210956)扫描端口获取商户后台,注册后添加信息上传(jspx)
 + [海尔集团某服务器配置不当导致代码执行](https://shuimugan.com/bug/view?bug_no=210602)访问/robots.txt/a.php,发现robots.txt被当成php文件执行，存在nginx解析漏洞
++ [TOM在线某分站任意文件上传可导致Getshell](https://shuimugan.com/bug/view?bug_no=210421)头像上传php shell
++ [梅花网某分站任意代码上传webshell及多库30W用户可查](https://shuimugan.com/bug/view?bug_no=209677)发稿时可上传文件,上传aspx shell
++ [满堂红集团任意文件上传可Getshell泄漏企业内部信息以及Blind XXE](https://shuimugan.com/bug/view?bug_no=214735)googlehacking到上传页面，上传shell
++ [酷狗主站的一处任意文件上传可shell](https://shuimugan.com/bug/view?bug_no=208816)上传php文件瞬间会被删除，利用条件竞争，在被删除之前生成一个shell
++ [新浪乐居某处缺陷导致内网漫游](https://shuimugan.com/bug/view?bug_no=208792)
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
+
 
 ## 逻辑漏洞
 ## 弱口令
