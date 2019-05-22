@@ -83,11 +83,17 @@ only for me
 ## JSONP注入
 ## SSTI
 ## 代码执行 / 命令执行
++ [凤凰网某站命令执行漏洞(已反弹shell)](https://shuimugan.com/bug/view?bug_no=205542)发博文时上传图片,存在ImageMagick命令执行漏洞
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 ## 文件包含
 + [**链家旗下自如某站一个有意思的文件包含到简单内网渗透（本地文件包含getshell技巧）**](https://shuimugan.com/bug/view?bug_no=134185)**包含临时文件getshell技巧+内网渗透**
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [天府交易所邮件系统存在文件包含漏洞](https://shuimugan.com/bug/view?bug_no=210881)zimbra邮件管理系统的文件包含漏洞
++ [上海热线邮箱系统任意文件读取漏洞](https://shuimugan.com/bug/view?bug_no=207670)zimbra邮件管理系统的文件包含漏洞
++ [中国移动通信集团新疆集团通讯录某处文件包含导致命令执行Getshell](https://shuimugan.com/bug/view?bug_no=202397)AXIS2-4279,+ [本地文件包含漏洞](https://issues.apache.org/jira/browse/AXIS2-4279)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
