@@ -94,7 +94,7 @@ only for me
 + [天府交易所邮件系统存在文件包含漏洞 ](https://shuimugan.com/bug/view?bug_no=210881)zimbra邮件管理系统的文件包含漏洞
 + [上海热线邮箱系统任意文件读取漏洞 ](https://shuimugan.com/bug/view?bug_no=207670)zimbra邮件管理系统的文件包含漏洞
 + [中国移动通信集团新疆集团通讯录某处文件包含导致命令执行Getshell ](https://shuimugan.com/bug/view?bug_no=202397)AXIS2-4279, [Axis2本地文件包含漏洞](https://issues.apache.org/jira/browse/AXIS2-4279)
-+ [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
++ [p2p金融安全之鼎鑫财富某处缺陷导致任意文件包含执行(主站Shell/数据库root权限/会员信息泄露/可操作数据库加钱)](https://shuimugan.com/bug/view?bug_no=188094)dz的uc_server弱口令登陆，上传图片马getshell,菜刀连接翻出数据库配置
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
