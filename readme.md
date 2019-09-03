@@ -120,10 +120,9 @@ only for me
 + [梅花网某分站任意代码上传webshell及多库30W用户可查](https://shuimugan.com/bug/view?bug_no=209677)发稿时可上传文件,上传aspx shell
 + [满堂红集团任意文件上传可Getshell泄漏企业内部信息以及Blind XXE](https://shuimugan.com/bug/view?bug_no=214735)googlehacking到上传页面，上传shell
 + [酷狗主站的一处任意文件上传可shell](https://shuimugan.com/bug/view?bug_no=208816)上传php文件瞬间会被删除，利用条件竞争，在被删除之前生成一个shell
-+ [新浪乐居某处缺陷导致内网漫游](https://shuimugan.com/bug/view?bug_no=208792)
 + [鼎鑫财富某处缺陷导致任意文件包含执行](https://shuimugan.com/bug/view?bug_no=188094)弱口令登陆后台，配合前台上传图片马  getshell
 + [句酷批改网本站任意文件上传，可导致123万数据泄漏](http://www.anquan.us/static/bugs/wooyun-2013-024404.html)nginx解析漏洞
-+ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [黑龙江农村信用社oa系统文件可绕过上传限制getshell](https://shuimugan.com/bug/view?bug_no=208040) path参数 及 fileId参数可自定义文件及目录名
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
@@ -150,8 +149,8 @@ only for me
 ## python-Web
 ## Node-js
 # 内网渗透
-+ [运营商安全之中国移动多个漏洞打包(可SHELL内网漫游)](https://shuimugan.com/bug/view?bug_no=212792)附件上传处,抓包改后缀
-+ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [七牛云存储某站漏洞可跨越边界漫游内网](https://shuimugan.com/bug/view?bug_no=212372)
++ [新浪乐居某处缺陷导致内网漫游](https://shuimugan.com/bug/view?bug_no=208792)
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
