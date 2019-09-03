@@ -36,7 +36,7 @@ only for me
         - [其他](#%E5%85%B6%E4%BB%96-1)
     - [python-Web](#python-web)
     - [Node-js](#node-js)
-- [渗透测试](#%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95)
+- [内网渗透](#%E5%86%85%E7%BD%91%E6%B8%97%E9%80%8F)
 
 <!-- more -->
 
@@ -149,5 +149,10 @@ only for me
 ### Struct2
 ## python-Web
 ## Node-js
-# 渗透测试
-
+# 内网渗透
++ [运营商安全之中国移动多个漏洞打包(可SHELL内网漫游)](https://shuimugan.com/bug/view?bug_no=212792)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
