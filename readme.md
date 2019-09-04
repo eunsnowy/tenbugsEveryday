@@ -123,9 +123,9 @@ only for me
 + [鼎鑫财富某处缺陷导致任意文件包含执行](https://shuimugan.com/bug/view?bug_no=188094)弱口令登陆后台，配合前台上传图片马  getshell
 + [句酷批改网本站任意文件上传，可导致123万数据泄漏](http://www.anquan.us/static/bugs/wooyun-2013-024404.html)nginx解析漏洞
 + [黑龙江农村信用社oa系统文件可绕过上传限制getshell](https://shuimugan.com/bug/view?bug_no=208040) path参数 及 fileId参数可自定义文件及目录名
-+ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
-+ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
-+ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [新加坡预付卡Sinopay远程代码执行](https://shuimugan.com/bug/view?bug_no=207557)s2-016
++ [某报关系统配置不当涉及大量身份证扫描件/上百万用户信息](https://shuimugan.com/bug/view?bug_no=206537)FCK编辑器漏洞上传文件，%00截断后缀上传小马
++ [体检宝www主站Getshell（涉及72W+用户数据）](https://shuimugan.com/bug/view?bug_no=206327)IOS APP头像上传处，上传shell
 + [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 
 
