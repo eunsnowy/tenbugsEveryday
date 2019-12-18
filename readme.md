@@ -48,6 +48,7 @@ only for me
 ### MongoDB
 ## XSS
 + [新浪微博之点击我的链接就登录你的微博（XSS敏感域）](https://shuimugan.com/bug/view?bug_no=189664)login.sina.com.cn下存在一处反射xss，恰巧微博获取登录ticket的请求也在这个子域下，利用此处xss加载获取ticket的请求并将响应(内含ticket)发送到远程服务器，使用ticket登录受害者的微博。
++ [一处反射XSS](https://sec.ly.com/bugdetail?id=164059119140096112064219016149065088080056201165)callback带来的反射xss
 ## CSRF
 ## 其他前端安全
 ## SSRF
