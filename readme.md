@@ -44,11 +44,14 @@ only for me
 ## sql注入
 ### MySql
 ### MSSQL
++ [m.17u.cn一处SQL注入](https://sec.ly.com/bugdetail?id=009063229194078153174131073236159115161105151152)UA处注入,我服了
 ### PostgreSQL
 ### MongoDB
 ## XSS
 + [新浪微博之点击我的链接就登录你的微博（XSS敏感域）](https://shuimugan.com/bug/view?bug_no=189664)login.sina.com.cn下存在一处反射xss，恰巧微博获取登录ticket的请求也在这个子域下，利用此处xss加载获取ticket的请求并将响应(内含ticket)发送到远程服务器，使用ticket登录受害者的微博。
 + [一处反射XSS](https://sec.ly.com/bugdetail?id=164059119140096112064219016149065088080056201165)callback带来的反射xss
++ [同程手机版页面存在XSS漏洞](https://sec.ly.com/bugdetail?id=008030176020196174113061242204025233079222194237)dom-xss
++ [另一处XSS漏洞](https://sec.ly.com/bugdetail?id=011181226074175120196222176022086125091061016183)xss
 ## CSRF
 ## 其他前端安全
 ## SSRF
@@ -61,7 +64,7 @@ only for me
 + [百度某处SSRF可漫游内网](https://shuimugan.com/bug/view?bug_no=214138)漏洞在测试网站"移动友好度"处,直接在vps的文件里写入<iframe src="http://10.16.83.164:8080">绕过，
 + [bilibili某分站从信息泄露到ssrf再到命令执行](https://shuimugan.com/bug/view?bug_no=213982)
 + [七牛某站SSRF可探测内网](https://shuimugan.com/bug/view?bug_no=210934)获取远程图片处ssrf+elasticsearch未授权访问泄露内网网段=探测内网
-+ [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
++ [某处疑似ssrf](https://sec.ly.com/bugdetail?id=050154138086142207045203091175163115085241023043)支付订单的url里url参数存在ssrf
 + [有道翻译某处SSRF可通网易内网](https://shuimugan.com/bug/view?bug_no=198176)网页翻译处
 
 ## XXE
