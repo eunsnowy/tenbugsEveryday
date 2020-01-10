@@ -52,6 +52,7 @@ only for me
 + [一处反射XSS](https://sec.ly.com/bugdetail?id=164059119140096112064219016149065088080056201165)callback带来的反射xss
 + [同程手机版页面存在XSS漏洞](https://sec.ly.com/bugdetail?id=008030176020196174113061242204025233079222194237)dom-xss
 + [另一处XSS漏洞](https://sec.ly.com/bugdetail?id=011181226074175120196222176022086125091061016183)xss
++ [appnew.ly.com XSS 一枚](https://sec.ly.com/bugdetail?id=066202235230103139118247059162157161173236149032)上传图片带来的存储型xss
 ## CSRF
 ## 其他前端安全
 ## SSRF
