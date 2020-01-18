@@ -14,6 +14,7 @@ only for me
     - [XXE](#xxe)
     - [JSONP注入](#jsonp%E6%B3%A8%E5%85%A5)
     - [SSTI](#ssti)
+    - [撞库](#撞库)
     - [代码执行 / 命令执行](#%E4%BB%A3%E7%A0%81%E6%89%A7%E8%A1%8C--%E5%91%BD%E4%BB%A4%E6%89%A7%E8%A1%8C)
     - [文件包含](#%E6%96%87%E4%BB%B6%E5%8C%85%E5%90%AB)
     - [文件上传 / 解析漏洞](#%E6%96%87%E4%BB%B6%E4%B8%8A%E4%BC%A0--%E8%A7%A3%E6%9E%90%E6%BC%8F%E6%B4%9E)
@@ -88,6 +89,9 @@ only for me
 
 ## JSONP注入
 ## SSTI
+## 撞库
++ [微信绑定功能可撞裤](https://sec.ly.com/BugDetail?id=002035115131218156236168042235246087123111236175)微信绑定功能撞库
++ [微信端可用于撞12306的裤](https://sec.ly.com/BugDetail?id=037115091057203098197048234232216102221082217203)同程艺龙微信端撞12306的库
 ## 代码执行 / 命令执行
 + [凤凰网某站命令执行漏洞(已反弹shell)](https://shuimugan.com/bug/view?bug_no=205542)发博文时上传图片,存在ImageMagick命令执行漏洞
 + [从开源中国的某XXE漏洞到主站shell](https://shuimugan.com/bug/view?bug_no=59911)
