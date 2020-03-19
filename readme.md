@@ -140,6 +140,16 @@ only for me
 
 
 ## 逻辑漏洞
++ [不小心闯进1905某站后台/我发誓真的是不小心 ](http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0226583)待看
++ [乌云某处逻辑错误导致越权 ](http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0222083)通过抓包破解匿名功能
++ [瓜子二手车某系统设计逻辑缺陷导致多个系统沦陷/内网漫游](http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0220150)从三级域名入手
++ [聚美优品某处设计逻辑缺陷导致撞库(成功账号证明)](http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0217766)微信绑定账号处撞库
++ [米鼠网设计逻辑额缺陷可重置任意用户密码(以管理员账号)](http://wooyun.2xss.cc/bug_detail.php?wybug_id=wooyun-2016-0211505)直接访问可以输入新密码的url,从而跳过手机验证码验证步骤
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
++ [财政部某站任意文件上传](https://shuimugan.com/bug/view?bug_no=214735)附件上传处,抓包改后缀
 ## 弱口令
 + [运营商安全之中国移动多个漏洞打包(可SHELL内网漫游)](https://shuimugan.com/bug/view?bug_no=212792)扫描端口,发现一处jboss后台匿名访问，弱口令登陆。
 ## 其他漏洞
